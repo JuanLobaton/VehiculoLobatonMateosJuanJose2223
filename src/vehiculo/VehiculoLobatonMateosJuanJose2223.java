@@ -3,7 +3,7 @@ package vehiculo;
 
 /**
  *
- * @author IES Aguadulce
+ * @author Juan Lobaton
  */
 public class VehiculoLobatonMateosJuanJose2223 {
 
